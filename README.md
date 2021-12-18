@@ -8,5 +8,5 @@ The Measurement of a Lepton-Lepton Electroweak Reaction (MOLLER) experiment prop
 
 ## Collaboration Resources
 
-* [Document Database](https://docdb.moller12gev.org)
-* [Electronic Logbook](https://elog.moller12gev.org)
+* [Document Database](https://docdb.moller12gev.org) (under construction)
+* [Electronic Logbook](https://elog.moller12gev.org) (under construction)
